@@ -7,7 +7,7 @@ It allows users to convert temperature values between **Celsius**, **Fahrenheit*
 
 ## 🚀 Live Demo
 
-🔗  Try it live now:- [SLIDEBAR-4](https://innovativesumit.github.io/LANDING-PAGE/)
+🔗  Try it live now:- [SLIDEBAR-4](https://innovativesumit.github.io/TEMPERATURE-CONVERTORS/)
 
 ## 📸 Screenshots
 
