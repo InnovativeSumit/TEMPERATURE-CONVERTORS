@@ -13,7 +13,7 @@ It allows users to convert temperature values between **Celsius**, **Fahrenheit*
 
 Here's a preview of the site:
 
-<p align="center">  <img src="https://github.com/user-attachments/assets/c10e0b3b-3936-497f-986b-b840086ebb4f" alt="Screenshot 1" width="420" height="420" /> </p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/25935757-485e-4c80-9ea3-9ab82de82d0b" alt="Screenshot 1" width="420" height="420" /> </p>
 <p align="center">  <img src="https://github.com/user-attachments/assets/296b4b81-cf36-4055-b136-012cb736c742" alt="Screenshot 2" width="420" height="520" /> </p>
 ## 🔥 Features
 
